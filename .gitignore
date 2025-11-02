@@ -10,4 +10,4 @@ wheels/
 .venv
 outputs/
 logs
-data/
+# data/
